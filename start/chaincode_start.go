@@ -23,7 +23,7 @@ import (
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )
 
-// SimpleChaincode example simple Chaincode implementation
+// SimpleChaincode example simple Chaincode implementation and <adding some comments> 
 type SimpleChaincode struct {
 }
 
